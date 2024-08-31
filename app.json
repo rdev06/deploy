@@ -1,0 +1,8 @@
+{
+    "backend":{
+        "path": "",
+        "branch": "",
+        "secret": "",
+        "scripts": "\ngit pull origin deploy\nnpm i\nnpm run build\npm2 reload solocitBk\n"
+    }
+}
